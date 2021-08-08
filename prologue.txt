@@ -1,0 +1,16 @@
+HTML (Hyper Text Markup Language)
+
+Extensions (ctrl shift x)
+
+open in browser
+
+젤 위 TechER install
+
+웹 스크래핑
+웹 페이지에서 원하는 부부만
+
+웹 크롤링
+웹 페이지 내 모든 것
+
+
+pip install selenium
